@@ -56,14 +56,6 @@ IDE         PhpStorm
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 Interested in my work? Feel free to explore my repositories and projects.
